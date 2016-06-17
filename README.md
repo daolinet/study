@@ -65,7 +65,7 @@ Python以缩进来组织代码                | Golang以花括号来组织代�
     }
 
 
-**1.1.5. 阅讲习一些Python/Golang的开源产品**
+**1.1.5. 阅读一些Python/Golang的开源产品**
 
 ***Python:*** Django,Ryu,OpenStack
 
@@ -187,7 +187,7 @@ Python以缩进来组织代码                | Golang以花括号来组织代�
 
 *运行:*
 
-安装ryu完成后，会在python包路径(CentOS: /usr/lib/python2.7/site-packages/)存放源码，其中ryu目录下的app文件中是官方给出的一些事例，也可以参考例子实现更加复杂的OpenFlow应用。
+安装完ryu后，会在python包路径(CentOS: /usr/lib/python2.7/site-packages/)存放源码，其中ryu目录下的app文件中是官方给出的一些事例，也可以参考例子实现更加复杂的OpenFlow应用。
 
 例如, 运行简单mac地址学习功能的simple_switch.py应用:
 
